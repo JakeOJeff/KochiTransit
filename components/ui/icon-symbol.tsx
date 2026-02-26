@@ -19,7 +19,8 @@ const MAPPING = {
   'chevron.left.forwardslash.chevron.right': 'code',
   'chevron.right': 'chevron-right',
   'music.note' : 'music-note',
-  'map.fill' : 'route'
+  'map.fill' : 'route',
+  'train.side.front.car' : 'directions-transit-filled'
 } as IconMapping;
 
 /**
